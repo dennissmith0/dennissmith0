@@ -1,11 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently on a mission to create products that leverage physiological and training data to enhance human health and performance. Bridging the gap between athletics, education, and technology, I aim to use my diverse experiences and knowledge to empower us to become healthier, better versions of ourselves.
+
 <!--
 **dennissmith0/dennissmith0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently on a mission to create products that leverage physiological and training data to enhance human health and performance. Bridging the gap between athletics, education, and technology, I aim to use my diverse experiences and knowledge to empower us to become healthier, better versions of ourselves.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
