@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m on a mission to create products that leverage physiological and training data to enhance human health and performance. Bridging the gap between athletics, education, and technology, I aim to use my diverse experiences and knowledge to empower us to become healthier, better versions of ourselves.
+- 💬 Ask me about: prime numbers!
 - ⚡ Fun fact: I built a stone-faced cabin in the mountains of Vermont during quarantine! If you can find it, you can stay for free :wink:
 
 
