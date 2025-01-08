@@ -2,7 +2,6 @@
 </center>
 
 - 🔭 With the discipline of a professional athlete and the curiosity of a mathematician, I am passionate about using data to drive decisions and optimize performance.
-- 🌱 I’m currently learning how to orchestrate database operations using Snowflake
 - 💬 Ask me about: prime numbers!
 - ⚡ Fun fact: I built a stone-faced cabin in the mountains of Vermont during quarantine! If you can find it, you can stay for free :wink:
 
