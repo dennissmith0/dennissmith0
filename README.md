@@ -1,7 +1,7 @@
 ### <h3 align="center"> Hi there! 👋
 </center>
 
-- 🔭 With the discipline of a professional athlete and the curiosity of a mathematician, I am passionate about using data to drive decisions and optimize performance.
+- 🔭 With the discipline of an ex-professional athlete, the curiosity of a philosopher, and the relentless rigor of a mathematician, I am compelled to make sense of the world using quantifiable means.
 - 💬 Ask me about: prime numbers!
 - ⚡ Fun fact: I built a stone-faced cabin in the mountains of Vermont during quarantine! If you can find it, you can stay for free :wink:
 
